@@ -11,9 +11,11 @@ The **Investment Calculator** is a React application that helps users calculate 
 ## 🎯 Features
 
 - 📈 **Dynamic Calculations**: Real-time updates as you adjust investment parameters.
-- 💾 **Local Storage**: Saves your input data for future sessions.
-- 📊 **Interactive Charts**: Visual representation of investment growth over time.
+- 💾 **Local Storage**: Saves your input data for future sessions.*
+- 📊 **Interactive Charts**: Visual representation of investment growth over time.*
 - 🖥️ **Responsive Design**: Works on all devices, from desktops to mobiles.
+
+**Note**: Features marked with * are planned for implementation and are not yet available.
 
 ## 📸 Screenshots
 
