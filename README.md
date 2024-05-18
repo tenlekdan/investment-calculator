@@ -35,11 +35,13 @@ The **Investment Calculator** is a React application that helps users calculate 
    npm install 
    ```
 
-3. **Install dependencies**
+3. **Start the development server**
 
 ```bash
    npm start 
    ```
+The app will be available at http://localhost:3000.
+
 ## 📚 Usage
 
 1. **Enter Initial Investment**: Input the amount of money you are starting with.
@@ -60,4 +62,39 @@ The **Investment Calculator** is a React application that helps users calculate 
 10. **License**: Information about the project’s license.
 11. **Contact**: How to get in touch with the project maintainer.
 
-Feel free to customize this template according to your project's specific details and requirements.
+
+## 🧪 Running Tests
+
+```bash
+   npm test 
+   ```
+
+## 📦 Building for Production
+
+```bash
+   npm run build
+ 
+   ```
+
+## 👥 Contributing
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature-branch).
+6. Open a pull request.
+
+   
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💬 Contact
+
+For any questions or feedback, please reach out:
+
+- **Email**: tenlekdan2005@yahoo.co.in
+- **GitHub**: [tenlekdan](https://github.com/tenlekdan)
+- **Linkedin**: [@tenzin-lekden](https://www.linkedin.com/in/tenzin-lekden-a02a4731)
