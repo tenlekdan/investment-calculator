@@ -27,3 +27,25 @@ The **Investment Calculator** is a React application that helps users calculate 
    ```bash
    git clone https://github.com/yourusername/investment-calculator.git
    cd investment-calculator
+
+
+Install dependencies
+
+bash
+Copy code
+npm install
+
+### Explanation
+1. **Badges**: Displays project status and metadata.
+2. **Project Overview**: Brief description of what the project does.
+3. **Features**: Key features of the application.
+4. **Screenshots**: Visuals to illustrate the application.
+5. **Installation**: Step-by-step guide to set up the project locally.
+6. **Usage**: Instructions on how to use the application.
+7. **Running Tests**: Commands to run tests.
+8. **Building for Production**: Steps to build the app for deployment.
+9. **Contributing**: Guidelines for contributing to the project.
+10. **License**: Information about the project’s license.
+11. **Contact**: How to get in touch with the project maintainer.
+
+Feel free to customize this template according to your project's specific details and requirements.
