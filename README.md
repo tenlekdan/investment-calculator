@@ -29,11 +29,23 @@ The **Investment Calculator** is a React application that helps users calculate 
    cd investment-calculator
 
 
-Install dependencies
+2. **Install dependencies**
 
-bash
-Copy code
-npm install
+```bash
+   npm install 
+   ```
+
+3. **Install dependencies**
+
+```bash
+   npm start 
+   ```
+## 📚 Usage
+
+1. **Enter Initial Investment**: Input the amount of money you are starting with.
+2. **Set Interest Rate**: Input the annual interest rate (as a percentage).
+3. **Choose Time Period**: Input the number of years you plan to invest for.
+4. **View Results**: See the calculated future value and growth chart.
 
 ### Explanation
 1. **Badges**: Displays project status and metadata.
